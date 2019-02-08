@@ -1,0 +1,20 @@
+{
+	"vim.normalModeKeyBindings": [
+		{
+			"before": ["n", "t"],
+			"after": ["g", "g"]
+		}
+	],
+	"vim.normalModeKeyBindingsNonRecursive": [
+		{
+			"before": ["+"],
+			"after": ["<C-a>"]
+		}
+	],
+	"vim.visualModeKeyBindingsNonRecursive": [
+		{
+			"before": ["Y"],
+			"commands": [":w"]
+		}
+	]
+}
