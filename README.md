@@ -6,7 +6,7 @@ A Python script that converts a `.vimrc` into a `settings.json` for [VSCodeVim](
 
 1. Install [Python 3.x](https://www.python.org/downloads/)
 
-2. Download [vimrc-to-json.py](vimrc-to-json.py)
+2. Download [vimrc-to-json.py](vimrc-to-json.py) manually or run `curl https://raw.githubusercontent.com/Sheepolution/vimrc-to-json/master/vimrc-to-json.py > vimrc-to-json.py`
 
 3. Put your `.vimrc` and `vimrc-to-json.py` in the same directory
 
