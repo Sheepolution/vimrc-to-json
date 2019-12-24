@@ -1,3 +1,9 @@
+# Hold up! ⚠️
+
+Did you know that VsCodeVim as of version 1.12.0 [supports](https://github.com/VSCodeVim/Vim/issues/463#issuecomment-563451426) `.vimrc` files? So you might not even need this tool!
+
+Set `vim.vimrc.enable` to `true` and set `vim.vimrc.path` appropriately.
+
 # .vimrc to JSON
 
 A Python script that converts a `.vimrc` into a `settings.json` for [VSCodeVim](https://github.com/VSCodeVim/Vim).
